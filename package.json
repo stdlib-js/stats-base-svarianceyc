@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/stats-base-svarianceyc",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Calculate the variance of a single-precision floating-point strided array using a one-pass algorithm proposed by Youngs and Cramer.",
   "license": "Apache-2.0",
   "author": {
