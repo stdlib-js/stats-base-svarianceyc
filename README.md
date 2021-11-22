@@ -20,7 +20,7 @@ limitations under the License.
 
 # svarianceyc
 
-[![NPM version][npm-image]][npm-url] [![Build Status][test-image]][test-url] [![Coverage Status][coverage-image]][coverage-url] [![dependencies][dependencies-image]][dependencies-url]
+[![NPM version][npm-image]][npm-url] [![Build Status][test-image]][test-url] [![Coverage Status][coverage-image]][coverage-url] <!-- [![dependencies][dependencies-image]][dependencies-url] -->
 
 > Calculate the [variance][variance] of a single-precision floating-point strided array using a one-pass algorithm proposed by Youngs and Cramer.
 
@@ -240,11 +240,11 @@ console.log( v );
 
 ## See Also
 
--   [`@stdlib/stats/base/dvarianceyc`][@stdlib/stats/base/dvarianceyc]: calculate the variance of a double-precision floating-point strided array using a one-pass algorithm proposed by Youngs and Cramer.
--   [`@stdlib/stats/base/snanvarianceyc`][@stdlib/stats/base/snanvarianceyc]: calculate the variance of a single-precision floating-point strided array ignoring NaN values and using a one-pass algorithm proposed by Youngs and Cramer.
--   [`@stdlib/stats/base/sstdevyc`][@stdlib/stats/base/sstdevyc]: calculate the standard deviation of a single-precision floating-point strided array using a one-pass algorithm proposed by Youngs and Cramer.
--   [`@stdlib/stats/base/svariance`][@stdlib/stats/base/svariance]: calculate the variance of a single-precision floating-point strided array.
--   [`@stdlib/stats/base/varianceyc`][@stdlib/stats/base/varianceyc]: calculate the variance of a strided array using a one-pass algorithm proposed by Youngs and Cramer.
+-   <span class="package-name">[`@stdlib/stats/base/dvarianceyc`][@stdlib/stats/base/dvarianceyc]</span><span class="delimiter">: </span><span class="description">calculate the variance of a double-precision floating-point strided array using a one-pass algorithm proposed by Youngs and Cramer.</span>
+-   <span class="package-name">[`@stdlib/stats/base/snanvarianceyc`][@stdlib/stats/base/snanvarianceyc]</span><span class="delimiter">: </span><span class="description">calculate the variance of a single-precision floating-point strided array ignoring NaN values and using a one-pass algorithm proposed by Youngs and Cramer.</span>
+-   <span class="package-name">[`@stdlib/stats/base/sstdevyc`][@stdlib/stats/base/sstdevyc]</span><span class="delimiter">: </span><span class="description">calculate the standard deviation of a single-precision floating-point strided array using a one-pass algorithm proposed by Youngs and Cramer.</span>
+-   <span class="package-name">[`@stdlib/stats/base/svariance`][@stdlib/stats/base/svariance]</span><span class="delimiter">: </span><span class="description">calculate the variance of a single-precision floating-point strided array.</span>
+-   <span class="package-name">[`@stdlib/stats/base/varianceyc`][@stdlib/stats/base/varianceyc]</span><span class="delimiter">: </span><span class="description">calculate the variance of a strided array using a one-pass algorithm proposed by Youngs and Cramer.</span>
 
 </section>
 
@@ -295,8 +295,12 @@ Copyright &copy; 2016-2021. The Stdlib [Authors][stdlib-authors].
 [coverage-image]: https://img.shields.io/codecov/c/github/stdlib-js/stats-base-svarianceyc/main.svg
 [coverage-url]: https://codecov.io/github/stdlib-js/stats-base-svarianceyc?branch=main
 
+<!--
+
 [dependencies-image]: https://img.shields.io/david/stdlib-js/stats-base-svarianceyc.svg
 [dependencies-url]: https://david-dm.org/stdlib-js/stats-base-svarianceyc/main
+
+-->
 
 [chat-image]: https://img.shields.io/gitter/room/stdlib-js/stdlib.svg
 [chat-url]: https://gitter.im/stdlib-js/stdlib/
