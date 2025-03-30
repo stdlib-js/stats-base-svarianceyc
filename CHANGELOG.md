@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-03-29)
+## Unreleased (2025-03-30)
 
 <section class="features">
 
@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`5269da4`](https://github.com/stdlib-js/stdlib/commit/5269da48b9b1cbc6b3bfab79edf9682f76a73d3a) - **refactor:** update paths _(by Aayush Khanna)_
 -   [`b3cc07f`](https://github.com/stdlib-js/stdlib/commit/b3cc07f34d99c6d87e98edd43e830116da6488af) - **refactor:** update paths _(by Aayush Khanna)_
 -   [`a302f72`](https://github.com/stdlib-js/stdlib/commit/a302f72db99601ec7c82039bbc7038e0bf669b2a) - **feat:** add C ndarray interface and refactor implementation for `stats/base/svarianceyc` [(#4372)](https://github.com/stdlib-js/stdlib/pull/4372) _(by Vinit Pandit, Athan Reines, Aayush Khanna)_
 -   [`b0c3a91`](https://github.com/stdlib-js/stdlib/commit/b0c3a914b2c92e47ebf1356efb1b8663d53ed3e2) - **refactor:** update `stats/base/svarianceyc` native addon from C++ to C [(#4232)](https://github.com/stdlib-js/stdlib/pull/4232) _(by Vinit Pandit, Athan Reines)_
